@@ -1,0 +1,33 @@
+heading {
+  color: white;
+  font-size: 34px;
+}
+h1 {
+  color: green;
+  font size: 34px;
+}
+
+body {
+  background-color: blue;
+}
+p {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+h4 {
+  color: white;
+}
+div {
+  color: darkviolet;
+}
+
+.social {
+  display: inline-block;
+  margin-right: 25px;
+  color: #d22752;
+}
