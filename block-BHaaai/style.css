@@ -1,0 +1,36 @@
+header {
+  text-align: center;
+  color: white;
+}
+img {
+  width: 240px;
+  height: 240px;
+}
+h1 {
+  color: white;
+}
+h2 {
+  font-weight: bold;
+  color: #31b866;
+}
+
+h3 {
+  color: white;
+}
+p {
+  color: white;
+}
+
+body {
+  background-color: #22396a;
+}
+.social-media {
+  background-color: #11244d;
+  padding: 16px;
+  text-align: center;
+}
+
+.social-media a {
+  color: crimson;
+  margin-right: 12px;
+}
